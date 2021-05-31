@@ -16,5 +16,5 @@ spring:
       ddl-auto: update
 
 application:
-  description: "Projeto criado para o BootCamp DIO e Santander."
-  version: "1.2"
+  description: "Projeto criado para BootCamp DIO - Santander / Backend."
+  version: "1.3"
